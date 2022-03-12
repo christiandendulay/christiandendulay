@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+I'm a full stack react developer.
+
+Before I was mainly focus on the backend.
+Now I'm fully focused on enhancing my frontend skills.
+
+#Tools I used to develop an app:
+express html5 javascript mongodb nodejs react sass graphql typescript php
 <!--
 **christiandendulay/christiandendulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
