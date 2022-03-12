@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 I'm a full stack react developer.
@@ -6,7 +6,7 @@ I'm a full stack react developer.
 Before I was mainly focus on the backend.
 Now I'm fully focused on enhancing my frontend skills.
 
-# Tools I used to develop an app:
+### Tools I used to develop an app:
 
 - express 
 - html5 
